@@ -5,32 +5,25 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "CallHQ",
-    category: "Voice AI Calling Platform",
-    tools: "Voice AI, Calling Automation, CRM Integrations",
-    image: "/images/callhq.png",
-    link: "https://callhq.ai",
+    title: "CodePilot AI",
+    category: "LLM-Powered Coding Assistant",
+    tools: "Next.js, FastAPI, Python, Firebase, LLM APIs",
+    image: "/images/copilot.png",
+    link: "https://github.com/Ayushagrawal2005",
   },
   {
-    title: "Whatsapp Automation",
-    category: "WABA Application",
-    tools: "WhatsApp Business API, Workflow Automation, Notifications",
-    image: "/images/whatsapp.png",
-    link: "https://whatsapp.callhq.ai",
+    title: "AI Emotion Detection",
+    category: "Facial Recognition System",
+    tools: "Python, OpenCV, CNN, DeepFace, FastAPI",
+    image: "/images/placeholder.webp",
+    link: "https://github.com/Ayushagrawal2005",
   },
   {
-    title: "Broki",
-    category: "Real Estate Platform for FnB Industry",
-    tools: "Property Discovery, Lead Management, Marketplace Workflows",
-    image: "/images/broki.png",
-    link: "https://broki.in",
-  },
-  {
-    title: "Orrdr.com",
-    category: "Ecommerce Platform and Mobile App",
-    tools: "Ecommerce, Mobile Experience, Order Management",
-    image: "/images/orrdr.png",
-    link: "https://orrdr.com",
+    title: "CERTIFY",
+    category: "Certificate Verification Platform",
+    tools: "Next.js, Python, OCR, Firebase, Blockchain",
+    image: "/images/certify.png",
+    link: "https://github.com/Ayushagrawal2005",
   },
 ];
 
